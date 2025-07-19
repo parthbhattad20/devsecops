@@ -4,7 +4,7 @@ import pathlib
 
 here = pathlib.Path(__file__).parent.resolve()  
 
-# Get the long description from the README file  
+# Get the long description from the README file all code vulnurabilities 
 long_description = (here / "README.md").read_text(encoding="utf-8")  
 
 # Get a list of requirements  
